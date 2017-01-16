@@ -1,0 +1,94 @@
+primary	secondary	tertiary	quaternary	quinternary	metamaintype	metacolor	metanci	metaw3school
+知识	HTML	基础	element		html	Purple		html_elements
+知识	HTML	基础	attribute		html	Green		html_attributes
+知识	HTML	基础	style		html	Yellow		html_styles
+知识	HTML	设计	block	div	html	LightSalmon		html_blocks
+知识	HTML	设计	block	span	html	White		html_blocks
+知识	HTML	设计	list	ul	html	SaddleBrown		html_lists
+知识	HTML	设计	list	ol	html	Gray		html_lists
+知识	HTML	设计	list	dl	html	LightSkyBlue		html_lists
+知识	HTML	表单	input		html	HotPink		html_forms
+知识	HTML	表单	select		html	Teal		html_forms
+知识	HTML	HTML5	媒体	audio	html5	DarkRed		html_5_video
+知识	HTML	HTML5	媒体	video	html5	Orange		html_5_audio
+知识	HTML	HTML5	图形	canvas	html5	MediumSeaGreen		html_5_canvas
+知识	HTML	HTML5	图形	SVG	html5	LimeGreen		html_5_svg
+知识	HTML	HTML5	HTML5 表单		html5	Gainsboro		html_5_form_input_types
+知识	HTML	HTML5	API	Geolocation	html5	LightBlue		html_5_geolocation
+知识	HTML	HTML5	API	webstorage	html5	Blue		html_5_webstorage
+知识	HTML	HTML5	API	cache manifest	html5	Cyan		html_5_app_cache
+知识	CSS	样式	背景	background-color	css	Black		css_background
+知识	CSS	样式	背景	background-image	css	LightYellow		css_background
+知识	CSS	样式	文本	color	css	Red		css_text
+知识	CSS	样式	文本	line-height	css	PeachPuff		css_text
+知识	CSS	样式	文本	text-align	css	Purple		css_text
+知识	CSS	样式	font-family		css	Green		css_font
+知识	CSS	样式	链接	a:link	css	Yellow		css_link
+知识	CSS	样式	链接	a:visited	css	LightSalmon		css_link
+知识	CSS	样式	链接	a:hover	css	White		css_link
+知识	CSS	样式	链接	a:active	css	SaddleBrown		css_link
+知识	CSS	定位	position	absolute	css	Gray		css_positioning_absolute
+知识	CSS	定位	position	relative	css	LightSkyBlue		css_positioning_relative
+知识	CSS	定位	position	float	css	HotPink		css_positioning_floating
+知识	CSS	定位	position	fixed	css	Teal		css_positioning
+知识	CSS	绘制	边框	border	css3	DarkRed		css3_border
+知识	CSS	绘制	边框	border-radius	css3	Orange		css3_border
+知识	CSS	绘制	边框	box-shadow	css3	MediumSeaGreen		css3_border
+知识	CSS	绘制	文本效果	text-shadow	css3	LimeGreen		css3_text_effect
+知识	CSS	绘制	文本效果	word-wrap	css3	Gainsboro		css3_text_effect
+知识	CSS	绘制	字体	@font-face	css3	LightBlue		css3_text_effect
+知识	CSS	动画	2D 转换	translate()	css3	Blue		css3_2dtransform
+知识	CSS	动画	2D 转换	rotate()	css3	Cyan		css3_2dtransform
+知识	CSS	动画	2D 转换	scale()	css3	Black		css3_2dtransform
+知识	CSS	动画	过渡	transition	css3	LightYellow		css3_transition
+知识	CSS	动画	@keyframes		css3	Red		css3_animation
+知识	CSS	动画	animation		css3	PeachPuff		css3_animation
+知识	JavaScript	基本逻辑	输出		js	Purple		js_whereto
+知识	JavaScript	基本逻辑	变量		js	Green		js_variables
+知识	JavaScript	基本逻辑	数据类型		js	Yellow		js_datatypes
+知识	JavaScript	基本逻辑	运算符		js	LightSalmon		js_operators
+知识	JavaScript	基本逻辑	If...Else		js	White		js_if_else
+知识	JavaScript	基本逻辑	While循环		js	SaddleBrown		js_loop_while
+知识	JavaScript	基本逻辑	For循环		js	Gray		js_loop_for
+知识	JavaScript	函数			js	LightSkyBlue		
+知识	JavaScript	对象	objectName.propertyName		js	HotPink		js_objects
+知识	JavaScript	对象	objectName.methodName()		js	Teal		js_objects
+知识	JavaScript	内置对象	Number		js	DarkRed		js_obj_number
+知识	JavaScript	内置对象	string		js	Orange		js_obj_string
+知识	JavaScript	内置对象	Date		js	MediumSeaGreen		js_obj_date
+知识	JavaScript	内置对象	Array		js	LimeGreen		js_obj_array
+知识	JavaScript	内置对象	Math	round()	js	Gainsboro		js_obj_array
+知识	JavaScript	内置对象	Math	random()	js	LightBlue		js_obj_math
+知识	JavaScript	内置对象	正则表达式	RegExp()	js	Blue		js_obj_regexp
+知识	JavaScript	Window事件	Window 尺寸		js	Cyan		js_window
+知识	JavaScript	Window事件	消息框	alert()	js	Black		js_popup
+知识	JavaScript	Window事件	消息框	confirm()	js	LightYellow		js_popup
+知识	JavaScript	Window事件	Timing	setTimeout()	js	Red		js_timing
+知识	JS库和框架	jQuery				PeachPuff		
+知识	JS库和框架	Node.js				Purple		
+知识	JS库和框架	React.js				Green		
+知识	JS库和框架	D3.js				Yellow		
+知识	JS库和框架	Bootstrap				LightSalmon		
+知识	HTTP	状态码	404 Not Found		tags	White		html_ref_httpmessages
+知识	HTTP	状态码	403 Forbidden		tags	SaddleBrown		html_ref_httpmessages
+知识	HTTP	状态码	503 Service Unavailable		tags	Gray		html_ref_httpmessages
+知识	HTTP	状态码	504 Gateway Timeout		tags	LightSkyBlue		html_ref_httpmessages
+知识	HTTP	头	content-security-policy		tags	HotPink		
+知识	HTTP	头	allow-cross-domain		tags	Teal		
+知识	HTTP	方法	post		tags	DarkRed		html_ref_httpmethods
+知识	HTTP	方法	get		tags	Orange		html_ref_httpmethods
+知识	HTTP	方法	delete/put		tags	MediumSeaGreen		html_ref_httpmethods
+知识	HTTP	方法	head		tags	LimeGreen		html_ref_httpmethods
+知识	Ajax					Gainsboro		
+能力	编程能力	理解和还原设计意图	垂直居中		ability	LightBlue		
+能力	编程能力	理解和还原设计意图	两列等高		ability	Blue		
+能力	编程能力	理解和还原设计意图	自适应宽		ability	Cyan		
+能力	编程能力	算法	排序		ability	Black		
+能力	编程能力	算法	搜索		ability	LightYellow		
+能力	编程能力	算法	动态规划		ability	Red		
+能力	编程能力	数据结构	二叉树	AVL树	ability	PeachPuff		
+能力	编程能力	数据结构	二叉树	红黑树	ability	Purple		
+能力	编程能力	数据结构	二叉堆		ability	Green		
+能力	构架能力				ability	Yellow		
+能力	工程能力				ability	LightSalmon		
+能力	学习能力				ability	White		
