@@ -36,7 +36,7 @@ primary	secondary	tertiary	quaternary	quinternary	metamaintype	metacolor	metanci
 知识	CSS	绘制	边框	box-shadow	css3	MediumSeaGreen		css3_border
 知识	CSS	绘制	文本效果	text-shadow	css3	LimeGreen		css3_text_effect
 知识	CSS	绘制	文本效果	word-wrap	css3	Gainsboro		css3_text_effect
-知识	CSS	绘制	字体	@font-face	css3	LightBlue		css3_text_effect
+知识	CSS	绘制	字体	@font-face	css3	LightBlue		css3_font
 知识	CSS	动画	2D 转换	translate()	css3	Blue		css3_2dtransform
 知识	CSS	动画	2D 转换	rotate()	css3	Cyan		css3_2dtransform
 知识	CSS	动画	2D 转换	scale()	css3	Black		css3_2dtransform
